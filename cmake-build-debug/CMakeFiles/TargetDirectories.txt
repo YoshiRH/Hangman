@@ -1,0 +1,3 @@
+D:/Kodowanie/CLionsProjects/Hangman/cmake-build-debug/CMakeFiles/Hangman.dir
+D:/Kodowanie/CLionsProjects/Hangman/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Kodowanie/CLionsProjects/Hangman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
